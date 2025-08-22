@@ -22,8 +22,8 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardonascimentosilva&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardonascimentosilva&layout=compact&theme=tokyonight)
 
 ---
 
