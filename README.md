@@ -1,5 +1,6 @@
 # 👋 Olá, eu sou o Eduardo 
-https://user-images.githubusercontent.com/87540912/229372898-e8e36594-3e75-4844-99af-deaf727f032a.gif
+
+<img src="https://i.imgflip.com/65qngn.gif" width="300" alt="gif animado"/>
 
 🎓 Estudante de **Sistemas de Informação** na Uniube  
 💻 Apaixonado por desenvolvimento de software e tecnologia  
@@ -36,7 +37,7 @@ https://user-images.githubusercontent.com/87540912/229372898-e8e36594-3e75-4844-
 ---
 
 ## 📫 Onde me encontrar
-[![LinkedIn] (https://www.linkedin.com/in/eduardo-do-nascimento-silva-3982201b9/) ]  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-do-nascimento-silva-3982201b9/)  
 📧 Email: **contato.eduartech@gmail.com**
 
 ---
