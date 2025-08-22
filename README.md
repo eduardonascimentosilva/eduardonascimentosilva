@@ -1,4 +1,5 @@
-# 👋 Olá, eu sou o Eduardo  
+# 👋 Olá, eu sou o Eduardo 
+https://user-images.githubusercontent.com/87540912/229372898-e8e36594-3e75-4844-99af-deaf727f032a.gif
 
 🎓 Estudante de **Sistemas de Informação** na Uniube  
 💻 Apaixonado por desenvolvimento de software e tecnologia  
